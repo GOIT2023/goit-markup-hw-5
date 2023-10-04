@@ -599,6 +599,18 @@ h6 {
   padding: 72px 24px 24px 24px;
 }
 
+.footer_modal_window_name{
+  margin-bottom: 8px;
+}
+
+.footer_modal_window_label{
+font-size: 12px;
+line-height: 1.17;
+letter-spacing: 0.04em;
+color: #8e8f99;
+display: block;
+margin-bottom: 4px;
+}
 
 .footer_modal_window{
   position: absolute;
