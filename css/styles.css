@@ -793,7 +793,7 @@ h6 {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal_window_label_div_input_svg:focus {
+.modal_window_label_div_input:focus {
   fill: #4d5ae5;
 }
 
