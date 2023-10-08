@@ -795,7 +795,7 @@ h6 {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal_window_label_div_input:focus + .icon_email {
+.modal_window_label_div_input:focus + #icon_email {
   fill: #4D5AE5;
 }
 
