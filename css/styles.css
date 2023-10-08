@@ -793,6 +793,7 @@ h6 {
 }
 
 .modal_window_label_div_input:focus + .icon_email {
+  border-color: #4D5AE5;
   fill: #4D5AE5;
 }
 
