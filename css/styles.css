@@ -661,7 +661,7 @@ h6 {
 }
 
 .footer_form_button {
-  min-width: 165px;
+  min-width: 165px; 
   height: 40px;
   display: flex;
   justify-content: center;
