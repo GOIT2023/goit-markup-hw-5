@@ -852,6 +852,12 @@ h6 {
   fill: transparent;
 }
 
+.modal_window_checkbox_label_span:checked{
+  background-color: #404bbf;
+  border: none;
+  fill: #F4F4F4;
+}
+
 .modal_window_checkbox_label_span_a {
   color: #4d5ae5;
 }
