@@ -855,7 +855,7 @@ h6 {
 .modal_window_checkbox_input:checked + .modal_window_checkbox_label > .modal_window_checkbox_label_span {
   background-color: #404BBF;
   border: none;  
-  fill: #FFFFFF;
+  fill: #F4F4FD;
   border-color: #404BBF;
 }
 
