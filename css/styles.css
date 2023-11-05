@@ -851,12 +851,13 @@ h6 {
   justify-content: center;
   fill: transparent;
 }
-.modal_window_checkbox_input:hover + .modal_window_checkbox_label_span,
-.modal_window_checkbox_input:focus + .modal_window_checkbox_label_span{
+
+.modal_window_checkbox_input:checked + .modal_window_checkbox_label > .modal_window_checkbox_label_span {
   background-color: #404bbf;
   border: none;
   fill: #F4F4F4;
 }
+
 
 .modal_window_checkbox_label_span_a {
   color: #4d5ae5;
